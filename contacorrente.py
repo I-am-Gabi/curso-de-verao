@@ -1,4 +1,4 @@
-ass ContaCorrente:
+class ContaCorrente:
     def __init__(self, conta, nome, saldo = 0):
         self.n_conta = conta
         self.nome = nome
